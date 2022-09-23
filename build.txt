@@ -1,0 +1,56 @@
+This is the outline of my project with all of the possible features that I may add depending on my skill level
+CURVE
+	Layout
+		Phase 1: Greetings
+			o	Splash screens - After doing some research it seems like the are no preprocessing directories for splash screen, so I decided to make it a void function with a waiting time so it can look as much of a title screen as possible.
+		
+		o There will be a "Welcome To Curve :)" message.
+     
+	  o "Who Do You Want to Accompany You?" Ok, allow me to geek out here, I want to implement a tone feature. Since it is a GPA calculator and students will be using it I wanted to make a tone guide of some sort. It will go something like this
+		     - Nice = As the name suggests, this tone will be nice. It will provide positive comments and responses regardless of the user input.
+				 Even if the student inputs bad grades, the program will be nice and offer words of encouragement.
+				 - Neutral = If neutral is selected, the program will only guide the user through the input and result process. Offering no feedback on grade inputs
+				 - Tough Love = Will react extremely positively to great and good grade inputs, average will recieve tugs of encouragement without a 
+				 positive spin, and bad grades will recieve slightly strict words of encouragement. 
+				 
+				 
+				 Phase 2: School 
+				 	o School Level Input (The Prototype will only have High Schhol and College Levels)
+						- I'm debating on making it a general input or a per grade input. If I were to make a per	grade system I would probably have to create a usable database to hold more user grades and assingments. That's a feature for later for sure though.
+					o Determine wether user is a highschoold graduate, potential transfer student
+					   - If the user is a transfer student or a graduating highschool student I want to give them a lists of schools from select catergories [catergories are limited]
+						 Ivy League, Border Ivy, Prestigious D1, Great D1, Good D1, Just Sports D1, and Easy Pickings
+					oo    The transfer list will be predetermined and based off of schools that I have adequate information on their transfer acceptance rates and minimum transfer class requirements
+   It May have a degree selection section
+
+
+
+
+    Grade Input
+•    The user will select between semester or quarterly grade inputs
+
+o    For semester inputs they can chose between a 8/16 week [typically for college students] or a 2 semester choice
+		o    High School Students typically go by 4 quarters, or they can do the average of the quarters and go by semester
+
+•    After the input type is selected, they will go by subject type, math, science, English
+					o    Any other courses will be provide a prompt for the user to choose to input it.
+					o    Those classes will count towards the GPA count as well
+
+•    With every grade inputted, it will reveal the GPA for that grade
+				o    F.E
+				Semester 1: A+
+				Semester 2: A+
+						 GPA for Math: 4.00
+						 
+•    Once all of the grades and subjects are done inputting, find out all the entire GPA
+
+
+Optional Phase 4:
+•    For those users that chose a college that they wanted to go to, their GPA will be calculated against the average GPA of other applicants that apply to the same college
+			o    F.E Hypothetically Harvard gets 60,000 applicants in a year and 99.8% of them have a 4.0 so that would mean that the user must be in the 0.2 percent to get in with no questions asked,
+			o    That would make their inputs extremely rare
+
+
+		I apologize for the sudden shift in the document. I copied and pasted my original build format for the assignment that I had to turn in for class. It might be a little incoherent, but I will fix it up later as I move along.
+		
+		
