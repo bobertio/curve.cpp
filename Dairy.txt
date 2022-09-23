@@ -1,0 +1,6 @@
+Day 1:[Today is Friday, September 23rd] Going through/refining the general psuedocode for the first couple of phases
+  Goals: I really want to set up void commands so I won't have to do too much of the heavy lifting later for else if and for statements. 
+         I also want to see how many new things I can learn in order to refine what I have. My goal is to make the program run on as little code
+         but as efficiently as possible. There was this technique I saw on a video where he put seperate code on another file in the same IDE, and he 
+         called on it during the session using commands. I wanted to learn how to do that so I can code up seperate features in seperate spaces from the 
+         main code. I will update at the end of the day to show what I have done.
