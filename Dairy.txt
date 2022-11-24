@@ -4,3 +4,6 @@ Day 1:[Today is Friday, September 23rd] Going through/refining the general psued
          but as efficiently as possible. There was this technique I saw on a video where he put seperate code on another file in the same IDE, and he 
          called on it during the session using commands. I wanted to learn how to do that so I can code up seperate features in seperate spaces from the 
          main code. I will update at the end of the day to show what I have done.
+
+
+Day 2: [Today is November 24, Thanksgiving Thursday] I have not been updating the diary because I moved across the country and it took my stuff some time to get here, but we're back into the swing of things. I discovered that I can use excel as a database to store some of the information I needed for some of the features I planned on intergrating, especially things like the college choice list. As of now I am gathering the top colleges from all of the 50 states according to Niche to place in my program as the first tests. I most likely won't end up putting all of the 50 states in there, but it's good to have them since I am going to work on this for my resume as well.
